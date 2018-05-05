@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parking_lot.iml" filepath="$PROJECT_DIR$/parking_lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parkinglot.iml" filepath="$PROJECT_DIR$/.idea/modules/parkinglot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parkinglot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/parkinglot_main.iml" group="parkinglot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parkinglot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/parkinglot_test.iml" group="parkinglot" />
+    </modules>
+  </component>
+</project>
